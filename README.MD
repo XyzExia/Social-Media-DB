@@ -33,7 +33,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Video link
 
-See link for Insomia demostration.
+See link for Insomia demonstration.
 ```
 https://drive.google.com/file/d/12HFO2Tgf8pbOE3jG6GHGxxZw07kZssTO/view?usp=sharing 
 ```
